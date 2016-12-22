@@ -2,6 +2,7 @@
 
 ### GIT Key ###
 vendor/scripts/key.js
+starter-code/vendor/scripts/key.js
 
 ### OSX ###
 .DS_Store
