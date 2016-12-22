@@ -1,9 +1,7 @@
 # Created by https://www.gitignore.io/api/osx,linux,node,vim
 
 ### GIT Key ###
-vendor/scripts/key.js
-starter-code/vendor/scripts/key.js
-key.js
+
 
 ### OSX ###
 .DS_Store
@@ -69,4 +67,3 @@ Session.vim
 # auto-generated tag files
 tags
 githubToken.js
-key.js
