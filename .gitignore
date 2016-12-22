@@ -1,7 +1,6 @@
 # Created by https://www.gitignore.io/api/osx,linux,node,vim
 
 ### GIT Key ###
-
 starter-code/vendor/scripts/key.js
 
 ### OSX ###
