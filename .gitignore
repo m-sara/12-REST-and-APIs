@@ -1,5 +1,8 @@
 # Created by https://www.gitignore.io/api/osx,linux,node,vim
 
+### GIT Key ###
+vendor/scripts/key.js
+
 ### OSX ###
 .DS_Store
 .AppleDouble
